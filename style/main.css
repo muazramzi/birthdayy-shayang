@@ -29,7 +29,7 @@ html {
   }
   
   .one {
-    font-size: 4.5rem;
+    font-size: 2.5rem;
   }
   
   .two {
@@ -289,4 +289,5 @@ html {
       font-size: 1.5rem;
       font-weight: lighter;
     }
+
   }
